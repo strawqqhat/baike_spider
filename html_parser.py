@@ -37,17 +37,4 @@ class HtmlParser(object):
 
 
 
-        master first
-
-        branch1 first commit
-        branch1 second commit
-
-
-        audu ]
-        aflknlaf
-        anlnlafnla
-        2
-        wancheng
-
-
 
