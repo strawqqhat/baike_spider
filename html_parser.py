@@ -38,6 +38,4 @@ class HtmlParser(object):
         audu ]
         aflknlaf
 
-        saflf
-        safnof
 
