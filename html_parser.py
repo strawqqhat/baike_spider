@@ -48,6 +48,7 @@ class HtmlParser(object):
         anlnlafnla
 
         1-1
+        1-2
 
 
 
