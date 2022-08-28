@@ -37,4 +37,20 @@ class HtmlParser(object):
 
 
 
+<<<<<<< HEAD
 feature todo
+=======
+        master first
+
+        branch1 first commit
+        branch1 second commit
+
+
+        audu ]
+        aflknlaf
+        anlnlafnla
+        1
+
+
+
+>>>>>>> e285001... 1
