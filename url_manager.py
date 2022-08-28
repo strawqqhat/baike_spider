@@ -25,3 +25,5 @@ class UrlManager(object):
         for url in urls:
             self.add_new_url(url)
 1
+
+3
