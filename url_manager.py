@@ -24,3 +24,5 @@ class UrlManager(object):
             return
         for url in urls:
             self.add_new_url(url)
+
+2
